@@ -1,0 +1,10 @@
+{
+  "name": "organize-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "arch-parsa",
+  "license": "MIT",
+  "dependencies": {
+    "svelte": "^4.0.5"
+  }
+}
